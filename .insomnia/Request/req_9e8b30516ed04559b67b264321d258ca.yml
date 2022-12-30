@@ -1,0 +1,22 @@
+_id: req_9e8b30516ed04559b67b264321d258ca
+type: Request
+parentId: fld_53c65a2c7f694e5f8575b54d5a17d5fb
+modified: 1672049619865
+created: 1672049619865
+url: "{{ _.baseUrl
+  }}category/get-select-by-owner/c1ddb801-56d1-d6b2-43a4-4c19b01f8529"
+name: get-select-by-owner
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1670830060052.5625
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

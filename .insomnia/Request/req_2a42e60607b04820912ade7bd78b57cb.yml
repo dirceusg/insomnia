@@ -1,0 +1,21 @@
+_id: req_2a42e60607b04820912ade7bd78b57cb
+type: Request
+parentId: fld_70ca1c2f97a34a58aec9ec6b2752bccd
+modified: 1672096214199
+created: 1672095059731
+url: "{{ _.baseUrl }}bank-account/d3adc9e8-de14-84e2-e360-0c4b0d4e635f"
+name: get-by-id
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1670830060063.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

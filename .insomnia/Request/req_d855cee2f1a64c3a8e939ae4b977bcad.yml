@@ -1,0 +1,30 @@
+_id: req_d855cee2f1a64c3a8e939ae4b977bcad
+type: Request
+parentId: fld_449010f51ac24977aa455cbfa48efdb1
+modified: 1671795244201
+created: 1671795197414
+url: "{{ _.baseUrl }}owner-account/2097a4f5-729a-45c3-affa-b024b3009cb5"
+name: update
+description: ""
+method: PUT
+body:
+  mimeType: application/json
+  text: |-
+    {
+      "ownerAccountId": "2097a4f5-729a-45c3-affa-b024b3009cb5",
+      "name": "Plano Contas Runpass",
+      "description": "plano de contas teste"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1671436207294.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

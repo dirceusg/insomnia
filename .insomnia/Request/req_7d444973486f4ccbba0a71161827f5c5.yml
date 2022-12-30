@@ -1,0 +1,22 @@
+_id: req_7d444973486f4ccbba0a71161827f5c5
+type: Request
+parentId: fld_d6f353186873424a8600301ed1d4f2fc
+modified: 1671078584272
+created: 1671078570742
+url: "{{ _.baseUrl
+  }}business/get-resume-by-user/ae36b4c1-56fd-6f22-c85b-2170ce9c534f"
+name: get-resume-by-user
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1671061595905.3828
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

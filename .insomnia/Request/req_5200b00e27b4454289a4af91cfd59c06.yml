@@ -1,0 +1,21 @@
+_id: req_5200b00e27b4454289a4af91cfd59c06
+type: Request
+parentId: fld_79a9d90923e644d49753a8e2a0c6eb62
+modified: 1671063318148
+created: 1671063312101
+url: "{{ _.baseUrl }}user/get-list-athlete"
+name: get-list-athlete
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1670830059851
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

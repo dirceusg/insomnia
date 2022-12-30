@@ -1,0 +1,21 @@
+_id: req_b97ee54f62b6494bbe447fc38a0d62dc
+type: Request
+parentId: fld_ca5bd0c3f2c94925bd6451e6ed202bbc
+modified: 1671834232616
+created: 1671834205617
+url: "{{ _.baseUrl }}payment-type"
+name: get-all
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1670830060076
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

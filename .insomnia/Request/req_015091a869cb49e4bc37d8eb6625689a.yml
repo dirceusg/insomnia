@@ -1,0 +1,21 @@
+_id: req_015091a869cb49e4bc37d8eb6625689a
+type: Request
+parentId: fld_d6f353186873424a8600301ed1d4f2fc
+modified: 1671078782551
+created: 1671078754462
+url: "{{ _.baseUrl }}business/get-list-by-user/ae36b4c1-56fd-6f22-c85b-2170ce9c534f"
+name: get-list-by-user
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1671061594029.9067
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

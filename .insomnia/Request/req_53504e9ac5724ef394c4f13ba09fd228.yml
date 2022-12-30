@@ -1,0 +1,21 @@
+_id: req_53504e9ac5724ef394c4f13ba09fd228
+type: Request
+parentId: fld_691ed46b91864664854aef22b76551ed
+modified: 1671062436250
+created: 1671062428973
+url: "{{ _.baseUrl }}profiles/get-all-active"
+name: get-all-active
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1671061577900.8125
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

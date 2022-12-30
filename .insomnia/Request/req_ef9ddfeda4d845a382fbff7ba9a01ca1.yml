@@ -1,0 +1,21 @@
+_id: req_ef9ddfeda4d845a382fbff7ba9a01ca1
+type: Request
+parentId: fld_79a9d90923e644d49753a8e2a0c6eb62
+modified: 1671063336688
+created: 1671063332604
+url: "{{ _.baseUrl }}user/get-list-advisory"
+name: get-list-advisory
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1670830059801
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

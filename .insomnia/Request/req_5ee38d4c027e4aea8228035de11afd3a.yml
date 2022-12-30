@@ -1,0 +1,21 @@
+_id: req_5ee38d4c027e4aea8228035de11afd3a
+type: Request
+parentId: fld_95f0e07371a24152aa76e87261d752f8
+modified: 1671078015262
+created: 1671077897213
+url: "{{ _.baseUrl }}user/block/ae36b4c1-56fd-6f22-c85b-2170ce9c534f"
+name: block
+description: ""
+method: PUT
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1671061515885.0703
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

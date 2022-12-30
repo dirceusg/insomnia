@@ -1,0 +1,21 @@
+_id: req_ad05c4734f3b40b98ac30bfef39c34b8
+type: Request
+parentId: fld_398c5febd36d478e963ee4a58c496b53
+modified: 1672088441909
+created: 1672088203891
+url: "{{ _.baseUrl }}bank"
+name: get-all
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1670830060076
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

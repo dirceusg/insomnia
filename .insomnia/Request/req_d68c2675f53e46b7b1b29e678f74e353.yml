@@ -1,0 +1,21 @@
+_id: req_d68c2675f53e46b7b1b29e678f74e353
+type: Request
+parentId: fld_cf8ed94f7e8f477793c74ec36c985257
+modified: 1671858538862
+created: 1671858341418
+url: "{{ _.baseUrl }}category-type/d98fb59c-6733-b408-cc81-2bb34e5902c6"
+name: get-by-id
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1670830060063.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

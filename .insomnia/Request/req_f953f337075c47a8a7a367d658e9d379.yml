@@ -1,0 +1,22 @@
+_id: req_f953f337075c47a8a7a367d658e9d379
+type: Request
+parentId: fld_691ed46b91864664854aef22b76551ed
+modified: 1671062671108
+created: 1671062478015
+url: "{{ _.baseUrl
+  }}profiles/get-all-permissions/ba2d6c53-3aee-bd3d-4645-fe0c90642e07"
+name: get-all-permissions
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1671061577800.8125
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,32 @@
+_id: req_3bda1fe0e23a48af91d2fa90aa43c561
+type: Request
+parentId: fld_66a7f2affaa6474da516599ebe2a6463
+modified: 1672112977235
+created: 1672088203903
+url: "{{ _.baseUrl }}bank/735c04a7-39a4-8328-58b6-bcb95ae9a560"
+name: update
+description: ""
+method: PUT
+body:
+  mimeType: application/json
+  text: |
+    {
+      "ownerId": "c1ddb801-56d1-d6b2-43a4-4c19b01f8529",
+    	"ownerAccountId": "cbdc6046-fcc9-d5ae-eaca-01f325253793",
+    	"bankId":"735c04a7-39a4-8328-58b6-bcb95ae9a560",
+      "name": "Bradesco"
+
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1671436207294.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

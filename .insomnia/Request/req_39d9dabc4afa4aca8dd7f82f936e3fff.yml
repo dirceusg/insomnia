@@ -1,0 +1,28 @@
+_id: req_39d9dabc4afa4aca8dd7f82f936e3fff
+type: Request
+parentId: fld_e9fa39b81ae341778d40f66bc479c2c0
+modified: 1671062571288
+created: 1671062524520
+url: "{{ _.baseUrl }}profiles"
+name: create
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+      "name": "profile-master"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1671061529888.625
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

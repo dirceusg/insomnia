@@ -1,0 +1,21 @@
+_id: req_0a04f87e8bd74c27a4ac99baac249d52
+type: Request
+parentId: fld_398c5febd36d478e963ee4a58c496b53
+modified: 1672089091847
+created: 1672088203896
+url: "{{ _.baseUrl }}bank/get-by-owner/c1ddb801-56d1-d6b2-43a4-4c19b01f8529"
+name: get-by-owner
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1670830060057.25
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

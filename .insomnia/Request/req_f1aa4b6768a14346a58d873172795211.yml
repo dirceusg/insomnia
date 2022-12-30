@@ -1,0 +1,21 @@
+_id: req_f1aa4b6768a14346a58d873172795211
+type: Request
+parentId: fld_66a7f2affaa6474da516599ebe2a6463
+modified: 1672089219878
+created: 1672088203906
+url: "{{ _.baseUrl }}bank/active/9adc9f92-0bc1-9397-c3c7-81b28991a00f"
+name: active
+description: ""
+method: PUT
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1671346977436.875
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

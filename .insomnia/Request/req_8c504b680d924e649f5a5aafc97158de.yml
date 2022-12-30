@@ -1,0 +1,31 @@
+_id: req_8c504b680d924e649f5a5aafc97158de
+type: Request
+parentId: fld_e2f1992046414868bc6048acff29fa60
+modified: 1672088402164
+created: 1672088203883
+url: "{{ _.baseUrl }}bank/"
+name: create
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+      "ownerId": "c1ddb801-56d1-d6b2-43a4-4c19b01f8529",
+    	"ownerAccountId": "cbdc6046-fcc9-d5ae-eaca-01f325253793",
+      "name": "NU Bank"
+
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1671793126725
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

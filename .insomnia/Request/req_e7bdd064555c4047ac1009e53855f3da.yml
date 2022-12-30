@@ -1,0 +1,21 @@
+_id: req_e7bdd064555c4047ac1009e53855f3da
+type: Request
+parentId: fld_ba6fbc71edf44cc488ed63db15d8b822
+modified: 1671061660321
+created: 1671061625913
+url: "{{ _.baseUrl }}permissions"
+name: get-all
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1671061625913
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

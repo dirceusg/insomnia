@@ -1,0 +1,21 @@
+_id: req_64d8959e85934b0db3b248c760a3ab4b
+type: Request
+parentId: fld_ba6fbc71edf44cc488ed63db15d8b822
+modified: 1671061909675
+created: 1671061675440
+url: "{{ _.baseUrl }}permissions/get-by-module/user-module"
+name: get-by-module
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1671061497880.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

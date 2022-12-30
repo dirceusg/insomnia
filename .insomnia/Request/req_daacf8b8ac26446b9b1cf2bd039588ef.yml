@@ -1,0 +1,21 @@
+_id: req_daacf8b8ac26446b9b1cf2bd039588ef
+type: Request
+parentId: fld_95f0e07371a24152aa76e87261d752f8
+modified: 1671078070078
+created: 1671078065504
+url: "{{ _.baseUrl }}user/active/ae36b4c1-56fd-6f22-c85b-2170ce9c534f"
+name: active
+description: ""
+method: PUT
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1671061514884.8164
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

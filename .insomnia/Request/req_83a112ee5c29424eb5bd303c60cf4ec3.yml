@@ -1,0 +1,22 @@
+_id: req_83a112ee5c29424eb5bd303c60cf4ec3
+type: Request
+parentId: fld_70ca1c2f97a34a58aec9ec6b2752bccd
+modified: 1672095096450
+created: 1672095059735
+url: "{{ _.baseUrl
+  }}bank-account/get-select-by-owner/c1ddb801-56d1-d6b2-43a4-4c19b01f8529"
+name: get-select-by-owner
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1670830060052.5625
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

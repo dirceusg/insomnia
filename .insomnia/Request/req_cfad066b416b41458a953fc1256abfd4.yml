@@ -1,0 +1,21 @@
+_id: req_cfad066b416b41458a953fc1256abfd4
+type: Request
+parentId: fld_0e7fc38ee60841e8b184a32c3c827979
+modified: 1671079631064
+created: 1671079506887
+url: "{{ _.baseUrl }}business/remove/e174d74e-354f-432f-5ee4-b32d2af0bf01"
+name: remove
+description: ""
+method: DELETE
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1671079287714
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

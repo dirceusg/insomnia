@@ -1,0 +1,21 @@
+_id: req_98fd8c0433f24e48a195a6f1fb9847d3
+type: Request
+parentId: fld_5335e7ac86f24f70a7647c1ad54e42ce
+modified: 1671965662547
+created: 1671964970983
+url: "{{ _.baseUrl }}payment-form/9696e06c-dd70-79fb-aff6-194a55e4ed61"
+name: get-by-id
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1670830060063.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

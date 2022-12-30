@@ -1,0 +1,21 @@
+_id: req_0c6180f8c25849cd85fae6967589165e
+type: Request
+parentId: fld_691ed46b91864664854aef22b76551ed
+modified: 1671062415636
+created: 1671062406487
+url: "{{ _.baseUrl }}profiles"
+name: get-all
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1671061593904.875
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

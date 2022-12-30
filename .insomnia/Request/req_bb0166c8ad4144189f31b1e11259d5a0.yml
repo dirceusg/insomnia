@@ -1,0 +1,32 @@
+_id: req_bb0166c8ad4144189f31b1e11259d5a0
+type: Request
+parentId: fld_c99488eb7fbf4954a430a98018e105ef
+modified: 1671064410314
+created: 1671063364123
+url: "{{ _.baseUrl }}user"
+name: create
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+      "name": "Maverick",
+      "email": "maverick@gmail.com",
+      "document": "445.377.850-39",
+      "profileId": "00aa1521-f380-7c3f-06bf-44ab6b88cdac",
+      "password": "Code@293030"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1671061521886.5938
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

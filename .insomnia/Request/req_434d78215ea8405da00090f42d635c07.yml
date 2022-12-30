@@ -1,0 +1,30 @@
+_id: req_434d78215ea8405da00090f42d635c07
+type: Request
+parentId: fld_873be042a6e54f7c92ef30c582da76e4
+modified: 1671858405275
+created: 1671858341410
+url: "{{ _.baseUrl }}category-type/"
+name: create
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+      "ownerId": "c1ddb801-56d1-d6b2-43a4-4c19b01f8529",
+      "name": "Folha de Pagamento",
+      "active": true
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1671793126725
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,33 @@
+_id: req_857aa0ccc282498da4f2a8155ff822ce
+type: Request
+parentId: fld_58a91f464bd5466c90662fc470010b90
+modified: 1672049619869
+created: 1672049619869
+url: "{{ _.baseUrl }}category/9e7e6e9f-ec73-99fe-549f-a8bf076cbbe5"
+name: update
+description: ""
+method: PUT
+body:
+  mimeType: application/json
+  text: |+
+    {
+    	"ownerId": "c1ddb801-56d1-d6b2-43a4-4c19b01f8529",
+    	"categoryId": "9e7e6e9f-ec73-99fe-549f-a8bf076cbbe5",
+      "name": "Alimentações",
+      "categoryTypeId": "d98fb59c-6733-b408-cc81-2bb34e5902c6",
+     	"system": true
+    }
+
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1671436207294.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

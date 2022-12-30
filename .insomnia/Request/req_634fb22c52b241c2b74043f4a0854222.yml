@@ -1,0 +1,33 @@
+_id: req_634fb22c52b241c2b74043f4a0854222
+type: Request
+parentId: fld_c3d79d4ef5464e059bedb483c1dc798b
+modified: 1671079235455
+created: 1671079074338
+url: "{{ _.baseUrl }}business/e174d74e-354f-432f-5ee4-b32d2af0bf01"
+name: update
+description: ""
+method: PUT
+body:
+  mimeType: application/json
+  text: |-
+    {
+      "name": "BUsiness Teste",
+      "fantasyName": "outro teste",
+      "email": "teste@teste.com",
+      "juridic": true,
+      "document": "37.093.719/0001-24",
+      "dateFondation": "3/09/2022"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1671061518885.832
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

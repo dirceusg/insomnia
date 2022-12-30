@@ -1,0 +1,33 @@
+_id: req_1554b61e2a514743846f122beb5ca404
+type: Request
+parentId: fld_3055c5cfdb0540c18b62315e1530006c
+modified: 1671910083086
+created: 1671909245830
+url: "{{ _.baseUrl }}sub-category/7879de85-608c-596d-561d-25c9d9ed10bd"
+name: update
+description: ""
+method: PUT
+body:
+  mimeType: application/json
+  text: |+
+    {
+      "ownerId": "c1ddb801-56d1-d6b2-43a4-4c19b01f8529",
+    	"subCategoryId": "7879de85-608c-596d-561d-25c9d9ed10bd",
+      "name": "Servidores",
+      "categoryId": "0f8568f7-dd90-5b81-06d7-a0ccc531015b",
+     	"system": true
+    }
+
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1671436207294.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

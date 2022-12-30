@@ -1,0 +1,21 @@
+_id: req_f34ca8c34cf743dc8a99696325bcf82f
+type: Request
+parentId: fld_21c2ada38dc440c7812698924ea6bce7
+modified: 1671078232438
+created: 1671078229281
+url: "{{ _.baseUrl }}user/remove/ae36b4c1-56fd-6f22-c85b-2170ce9c534f"
+name: remove
+description: ""
+method: DELETE
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1671061514134.626
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

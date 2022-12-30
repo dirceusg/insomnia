@@ -1,0 +1,38 @@
+_id: req_fb996a56ef614b54a079cbb02b7c8399
+type: Request
+parentId: fld_5e7013d30cb14cd7836ca8b65f1c6fe4
+modified: 1671080764933
+created: 1671080367064
+url: "{{ _.baseUrl }}business/include-address/e3f837b9-823d-353d-7847-a61eccb8a179"
+name: include-address
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+      "addressType": "business",
+      "zipCode": "05346010",
+      "street": "Rua Manoel de Saldanha",
+      "number": "262",
+      "complement": "",
+      "neighborhood": "Jaguaré",
+      "city": "São Paulo",
+      "state": "SP",
+      "country": "Brasil",
+      "active": true,
+      "deleted": false
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1671061519173.3955
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

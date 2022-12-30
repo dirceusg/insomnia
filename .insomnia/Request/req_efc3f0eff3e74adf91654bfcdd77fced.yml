@@ -1,0 +1,35 @@
+_id: req_efc3f0eff3e74adf91654bfcdd77fced
+type: Request
+parentId: fld_686d96472a684b69affa6da0633768e0
+modified: 1671965410448
+created: 1671964970975
+url: "{{ _.baseUrl }}payment-form/"
+name: create
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+      "ownerId": "c1ddb801-56d1-d6b2-43a4-4c19b01f8529",
+      "name": "Pagamento Anual",
+    	"installmentsNumber":12,
+    	"frequency":0,
+    	"monthly":true,
+      "credit": true,
+      "debit": true,
+      "active": true
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1671793126725
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,22 @@
+_id: req_ffd399ece81c4497944b3ef34b605a38
+type: Request
+parentId: fld_d6f353186873424a8600301ed1d4f2fc
+modified: 1671078777705
+created: 1671078616724
+url: "{{ _.baseUrl
+  }}business/get-select-by-user/ae36b4c1-56fd-6f22-c85b-2170ce9c534f"
+name: get-select-by-user
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1671061594405.002
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

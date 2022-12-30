@@ -1,0 +1,32 @@
+_id: req_b886ddbe99a942ff8883f613d5c96ff7
+type: Request
+parentId: fld_5e7013d30cb14cd7836ca8b65f1c6fe4
+modified: 1671080242744
+created: 1671079720912
+url: "{{ _.baseUrl }}business/include-payment/e3f837b9-823d-353d-7847-a61eccb8a179"
+name: include-payment
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+      "name": "PAYMENT",
+      "code": "100",
+      "user": "",
+      "password": "",
+      "token": "e3f837b9-823d-353d-7847-a61eccb8a179"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1671061519410.959
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

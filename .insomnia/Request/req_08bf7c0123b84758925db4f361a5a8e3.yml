@@ -1,0 +1,39 @@
+_id: req_08bf7c0123b84758925db4f361a5a8e3
+type: Request
+parentId: fld_e3135893bbef4426a58b34725b2a2c7b
+modified: 1672113030976
+created: 1672095059724
+url: "{{ _.baseUrl }}bank-account/"
+name: create
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+      "ownerId": "c1ddb801-56d1-d6b2-43a4-4c19b01f8529",
+    	"ownerAccountId": "cbdc6046-fcc9-d5ae-eaca-01f325253793",
+      "bankId": "735c04a7-39a4-8328-58b6-bcb95ae9a560",
+      "name": "Minha Conta Pessoal",
+      "agencyNumber": "1988",
+      "agencyDigit": "0",
+      "accountNumber": "23450",
+      "accountDigit": "7",
+      "principal": true,
+      "balanceInitial": 0,
+      "description": "conta pessoal principal"
+
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1671793126725
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

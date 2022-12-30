@@ -1,0 +1,39 @@
+_id: req_02c2336f5f994565858959ec9225c886
+type: Request
+parentId: fld_222119fb925a46dc87f41563622eb95c
+modified: 1672070576035
+created: 1672068634693
+url: "{{ _.baseUrl }}receive"
+name: payment
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+      "installmentReceiveId": "90cc4e00-53e1-8857-1119-9709fa4324eb",
+      "ownerId": "c1ddb801-56d1-d6b2-43a4-4c19b01f8529",
+      "ownerAccountId": "cbdc6046-fcc9-d5ae-eaca-01f325253793",
+      "bankId": "string",
+      "bankAccountId": "string",
+      "typePaymentId": "string",
+      "paidAmount": "string",
+      "originalAmount": "string",
+      "interestAmount": "string",
+      "discountAmount": "string",
+      "receiverId": "string",
+      "description": "string"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1671614667009.75
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

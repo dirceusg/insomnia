@@ -1,0 +1,31 @@
+_id: req_4d52652c783a4e948904e9a811cf00b0
+type: Request
+parentId: fld_82a9f93ece6540c7b483dc9529421127
+modified: 1671909283087
+created: 1671909245808
+url: "{{ _.baseUrl }}sub-category/"
+name: create
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+      "ownerId": "c1ddb801-56d1-d6b2-43a4-4c19b01f8529",
+      "name": "Alimentação",
+      "categoryId": "0f8568f7-dd90-5b81-06d7-a0ccc531015b",
+     	"system": true
+    } 
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1671793126725
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

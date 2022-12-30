@@ -1,0 +1,21 @@
+_id: req_4b931c72cf374f70a454de7530b8cd3d
+type: Request
+parentId: fld_54431b9661e14104903444bd5e763a89
+modified: 1672099642309
+created: 1672095059748
+url: "{{ _.baseUrl }}bank-account/d3adc9e8-de14-84e2-e360-0c4b0d4e635f"
+name: delete
+description: ""
+method: DELETE
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1671257747579.25
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

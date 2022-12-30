@@ -1,0 +1,34 @@
+_id: req_11c070d85e034a6fac9242f21bffeb5e
+type: Request
+parentId: fld_f27bef61d6674fc784286fadeae735f1
+modified: 1671834748936
+created: 1671834205629
+url: "{{ _.baseUrl }}payment-type/dea86769-2dec-0401-b1dc-507d1ccfef22"
+name: update
+description: ""
+method: PUT
+body:
+  mimeType: application/json
+  text: |+
+    {
+      "ownerId": "c1ddb801-56d1-d6b2-43a4-4c19b01f8529",
+    	"paymentTypeId":"dea86769-2dec-0401-b1dc-507d1ccfef22",
+      "name": "Dinheiro",
+      "credit": true,
+      "debit": true,
+      "active": true
+    }
+
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1671436207294.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

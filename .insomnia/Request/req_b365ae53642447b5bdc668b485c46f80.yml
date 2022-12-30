@@ -1,0 +1,21 @@
+_id: req_b365ae53642447b5bdc668b485c46f80
+type: Request
+parentId: fld_34a25485f15049f18e5b0a4a2f62d4a6
+modified: 1671970154794
+created: 1671964971000
+url: "{{ _.baseUrl }}payment-form/82721bc2-7e8f-a8d7-8347-630eb7c2a287"
+name: delete
+description: ""
+method: DELETE
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1671257747579.25
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

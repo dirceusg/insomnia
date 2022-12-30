@@ -1,0 +1,21 @@
+_id: req_354b0ee1f7654a53a7522f8802973f6f
+type: Request
+parentId: fld_79a9d90923e644d49753a8e2a0c6eb62
+modified: 1671078258729
+created: 1670893027336
+url: "{{ _.baseUrl }}user/get-by-email/maverick@gmail.com"
+name: get-by-email
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1670830060051
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

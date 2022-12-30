@@ -1,0 +1,21 @@
+_id: req_5e4d744b546c44128580de5cfddd764e
+type: Request
+parentId: fld_ba6fbc71edf44cc488ed63db15d8b822
+modified: 1671061933537
+created: 1671061927610
+url: "{{ _.baseUrl }}permissions/get-by-controller/user"
+name: get-by-controller
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1671061433864.25
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

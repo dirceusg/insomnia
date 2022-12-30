@@ -1,0 +1,21 @@
+_id: req_6200ce503d154cf18ddf8017eea54659
+type: Request
+parentId: fld_d6f353186873424a8600301ed1d4f2fc
+modified: 1671078557495
+created: 1671078551654
+url: "{{ _.baseUrl }}business/get-resume"
+name: get-resume
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1671061597905.8906
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

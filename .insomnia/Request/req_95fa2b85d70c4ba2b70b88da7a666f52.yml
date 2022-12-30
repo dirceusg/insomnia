@@ -1,0 +1,21 @@
+_id: req_95fa2b85d70c4ba2b70b88da7a666f52
+type: Request
+parentId: fld_f27bef61d6674fc784286fadeae735f1
+modified: 1671834778320
+created: 1671834205631
+url: "{{ _.baseUrl }}payment-type/active/dea86769-2dec-0401-b1dc-507d1ccfef22"
+name: active
+description: ""
+method: PUT
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1671346977436.875
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

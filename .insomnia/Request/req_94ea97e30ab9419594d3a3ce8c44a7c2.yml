@@ -1,0 +1,22 @@
+_id: req_94ea97e30ab9419594d3a3ce8c44a7c2
+type: Request
+parentId: fld_9ede3bc41d154bbf96a5d60244220d44
+modified: 1671794474583
+created: 1671794450651
+url: "{{ _.baseUrl
+  }}owner-account/get-by-owner/c1ddb801-56d1-d6b2-43a4-4c19b01f8529"
+name: get-by-owner
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1670830060057.25
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

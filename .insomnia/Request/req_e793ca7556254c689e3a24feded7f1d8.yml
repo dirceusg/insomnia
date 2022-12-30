@@ -1,0 +1,21 @@
+_id: req_e793ca7556254c689e3a24feded7f1d8
+type: Request
+parentId: fld_79a9d90923e644d49753a8e2a0c6eb62
+modified: 1671062987313
+created: 1671062983059
+url: "{{ _.baseUrl }}user/get-select"
+name: get-select
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1670830059951
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

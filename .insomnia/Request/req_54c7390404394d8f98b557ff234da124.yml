@@ -1,0 +1,21 @@
+_id: req_54c7390404394d8f98b557ff234da124
+type: Request
+parentId: fld_53c65a2c7f694e5f8575b54d5a17d5fb
+modified: 1672069670376
+created: 1672069327881
+url: "{{ _.baseUrl }}receive/get-installments/80ac7c91-3386-6b35-5e89-742459d005a7"
+name: get-installments
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1670830060069.75
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

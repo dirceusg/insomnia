@@ -1,0 +1,33 @@
+_id: req_5b5a50052d864a0fa6cdad60a54baa86
+type: Request
+parentId: fld_5e7013d30cb14cd7836ca8b65f1c6fe4
+modified: 1671080806322
+created: 1671080769879
+url: "{{ _.baseUrl }}business/include-contact/e3f837b9-823d-353d-7847-a61eccb8a179"
+name: include-contact
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+      "phoneType": "business",
+      "area": "55",
+      "ddd": "11",
+      "phone": "9 4030-1052",
+      "active": true,
+      "deleted": false
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1671061519054.6138
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

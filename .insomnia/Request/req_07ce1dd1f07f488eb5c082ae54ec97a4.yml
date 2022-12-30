@@ -1,0 +1,30 @@
+_id: req_07ce1dd1f07f488eb5c082ae54ec97a4
+type: Request
+parentId: fld_f7707c7365a5444aaf13a90ba89ad3ba
+modified: 1671062628846
+created: 1671061742016
+url: "{{ _.baseUrl }}permissions"
+name: create
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+      "module": "user-module",
+      "controller": "user",
+      "action": "create"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1671061561896.75
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

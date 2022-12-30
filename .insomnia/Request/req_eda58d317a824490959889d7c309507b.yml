@@ -1,0 +1,30 @@
+_id: req_eda58d317a824490959889d7c309507b
+type: Request
+parentId: fld_1c1296a1298c4eb5aaf3f083527be35e
+modified: 1671794254037
+created: 1671793126725
+url: "{{ _.baseUrl }}owner-account/"
+name: create
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+      "ownerId": "c1ddb801-56d1-d6b2-43a4-4c19b01f8529",
+      "name": "Plano Contas Runpass",
+      "description": "plano de contas teste"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1671793126725
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

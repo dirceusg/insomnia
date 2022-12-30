@@ -1,0 +1,21 @@
+_id: req_800e8ed5791a4a67bc27f46f89cf9b51
+type: Request
+parentId: fld_d6f353186873424a8600301ed1d4f2fc
+modified: 1671078532634
+created: 1671078516352
+url: "{{ _.baseUrl }}business/get-all-by-user/ae36b4c1-56fd-6f22-c85b-2170ce9c534f"
+name: get-all-by-user
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1671061601906.9062
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

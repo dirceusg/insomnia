@@ -1,0 +1,35 @@
+_id: req_f93faddfad484763ad17fb4ff081e581
+type: Request
+parentId: fld_5e7013d30cb14cd7836ca8b65f1c6fe4
+modified: 1671079602287
+created: 1671078858383
+url: "{{ _.baseUrl }}business"
+name: create
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+      "userId": "ae36b4c1-56fd-6f22-c85b-2170ce9c534f",
+      "name": "Business Teste",
+      "fantasyName": "Teste",
+      "email": "teste@teste.com",
+      "juridic": true,
+      "document": "37.093.719/0001-24",
+      "dateFoundation": "2/07/1997",
+      "description": "teste teste teste"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1671061519886.086
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

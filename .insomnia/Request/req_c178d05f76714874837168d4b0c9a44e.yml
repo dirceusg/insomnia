@@ -1,0 +1,29 @@
+_id: req_c178d05f76714874837168d4b0c9a44e
+type: Request
+parentId: fld_e9fa39b81ae341778d40f66bc479c2c0
+modified: 1671062647125
+created: 1671062589674
+url: "{{ _.baseUrl }}profiles/include-permission"
+name: include-permission
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+      "profileId": "ba2d6c53-3aee-bd3d-4645-fe0c90642e07",
+      "permissionId": "519a6ca5-6bcd-1173-96e3-a6826ae3d2a3"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1671061513884.5625
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

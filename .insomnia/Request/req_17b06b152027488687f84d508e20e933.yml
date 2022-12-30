@@ -1,0 +1,21 @@
+_id: req_17b06b152027488687f84d508e20e933
+type: Request
+parentId: fld_95f0e07371a24152aa76e87261d752f8
+modified: 1671077956597
+created: 1671077708850
+url: "{{ _.baseUrl }}user/change-password"
+name: update
+description: ""
+method: PUT
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1671061517885.5781
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

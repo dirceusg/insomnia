@@ -1,0 +1,29 @@
+_id: req_b7e2bed4b7b8416f86f28578268128b7
+type: Request
+parentId: fld_c2050501f770411da87a034c790b8ad8
+modified: 1671061478135
+created: 1671061369848
+url: "{{ _.baseUrl }}authentication/login"
+name: login
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+      "email": "dirceu.dev@gmail.com",
+      "password": "Code@293030"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1671061369848
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

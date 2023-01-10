@@ -1,17 +1,17 @@
-_id: req_54c7390404394d8f98b557ff234da124
+_id: req_211598f90a1349e699c5d3842bc4d5cd
 type: Request
-parentId: fld_53c65a2c7f694e5f8575b54d5a17d5fb
-modified: 1673338950856
-created: 1672069327881
-url: "{{ _.baseUrl }}receive/get-installments/5b05c60d-b27a-4bc7-235f-8b3b6b0cd8d8"
-name: get-installments
+parentId: fld_79a9d90923e644d49753a8e2a0c6eb62
+modified: 1673348514043
+created: 1673348495888
+url: "{{ _.baseUrl }}user/get-select-athlete"
+name: get-select-athletes
 description: ""
 method: GET
 body: {}
 parameters: []
 headers: []
 authentication: {}
-metaSortKey: -1670830060069.75
+metaSortKey: -1670830059926
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: true

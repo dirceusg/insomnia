@@ -1,9 +1,9 @@
 _id: req_8c626e364871474cb60ae388323b4211
 type: Request
 parentId: fld_398c5febd36d478e963ee4a58c496b53
-modified: 1672088464763
+modified: 1675779544937
 created: 1672088203893
-url: "{{ _.baseUrl }}bank/9adc9f92-0bc1-9397-c3c7-81b28991a00f"
+url: "{{ _.baseUrl }}bank/735c04a7-39a4-8328-58b6-bcb95ae9a560"
 name: get-by-id
 description: ""
 method: GET

@@ -1,9 +1,9 @@
 _id: req_354b0ee1f7654a53a7522f8802973f6f
 type: Request
 parentId: fld_79a9d90923e644d49753a8e2a0c6eb62
-modified: 1671078258729
+modified: 1680780523446
 created: 1670893027336
-url: "{{ _.baseUrl }}user/get-by-email/maverick@gmail.com"
+url: "{{ _.baseUrl }}user/get-by-email/gerson@teste.com"
 name: get-by-email
 description: ""
 method: GET

@@ -1,9 +1,9 @@
 _id: req_c29bc3c1b3e7479781f8f37419e14e5a
 type: Request
 parentId: fld_53c65a2c7f694e5f8575b54d5a17d5fb
-modified: 1672049619861
+modified: 1673988325555
 created: 1672049619861
-url: "{{ _.baseUrl }}category/9e7e6e9f-ec73-99fe-549f-a8bf076cbbe5"
+url: "{{ _.baseUrl }}receive/50f0d683-2d96-9c99-db98-d990295797ed"
 name: get-by-id
 description: ""
 method: GET

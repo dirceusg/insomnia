@@ -1,9 +1,9 @@
 _id: req_02c2336f5f994565858959ec9225c886
 type: Request
 parentId: fld_222119fb925a46dc87f41563622eb95c
-modified: 1672070576035
+modified: 1673710763081
 created: 1672068634693
-url: "{{ _.baseUrl }}receive"
+url: "{{ _.baseUrl }}receive/payment"
 name: payment
 description: ""
 method: POST
@@ -11,18 +11,16 @@ body:
   mimeType: application/json
   text: |-
     {
-      "installmentReceiveId": "90cc4e00-53e1-8857-1119-9709fa4324eb",
-      "ownerId": "c1ddb801-56d1-d6b2-43a4-4c19b01f8529",
-      "ownerAccountId": "cbdc6046-fcc9-d5ae-eaca-01f325253793",
-      "bankId": "string",
-      "bankAccountId": "string",
-      "typePaymentId": "string",
-      "paidAmount": "string",
-      "originalAmount": "string",
-      "interestAmount": "string",
-      "discountAmount": "string",
-      "receiverId": "string",
-      "description": "string"
+        "installmentReceiveId": "cb69756f-f003-64c3-570d-623e109442e0",
+        "ownerAccountId": "cbdc6046-fcc9-d5ae-eaca-01f325253793",
+        "bankId": "735c04a7-39a4-8328-58b6-bcb95ae9a560",
+        "bankAccountId": "cbdc6046-fcc9-d5ae-eaca-01f325253793",
+        "paymentTypeId": "dea86769-2dec-0401-b1dc-507d1ccfef22",
+        "paidAmount": 274.49,
+        "originalAmount": 287.5,
+        "interestAmount": 2.36,
+        "discountAmount": 15.37,
+        "description": "sdfsdfsdfdsf"
     }
 parameters: []
 headers:

@@ -1,0 +1,22 @@
+_id: req_89367e7405af45c4b7a4d4cafee01d2c
+type: Request
+parentId: fld_002abaf6747f457ea38f52cc8ebf5c36
+modified: 1687262064397
+created: 1687261980527
+url: "{{ _.baseUrl
+  }}exercise-type/get-select/9a58d8c6-e1d6-7994-4a73-00062d18b019/Corrida"
+name: get-by-select
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1677593650274.625
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

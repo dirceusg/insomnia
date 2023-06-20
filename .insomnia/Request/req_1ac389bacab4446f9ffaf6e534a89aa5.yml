@@ -1,0 +1,21 @@
+_id: req_1ac389bacab4446f9ffaf6e534a89aa5
+type: Request
+parentId: fld_8ec20151da5d49b08eb88436253abe9f
+modified: 1687262468669
+created: 1687262374098
+url: "{{ _.baseUrl }}step-type/get-select/9a58d8c6-e1d6-7994-4a73-00062d18b019"
+name: get-by-select
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1677593650274.625
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

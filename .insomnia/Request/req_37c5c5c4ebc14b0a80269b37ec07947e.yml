@@ -1,0 +1,33 @@
+_id: req_37c5c5c4ebc14b0a80269b37ec07947e
+type: Request
+parentId: fld_9faef5f63fb84378a52fc54ac3bd5315
+modified: 1687266531612
+created: 1687266327952
+url: "{{ _.baseUrl }}exercise"
+name: create
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+      "businessId": "9a58d8c6-e1d6-7994-4a73-00062d18b019",
+      "modality": "Corrida",
+      "name": "Exercise Test",
+      "exerciseTypeId": "b43f59c8-6dc0-b75b-d34d-6f89effd900a",
+      "exerciseLevelId": "5433d7b4-5562-0522-d896-869c9afa7399",
+      "decription": "test of exercise"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1687266327952
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

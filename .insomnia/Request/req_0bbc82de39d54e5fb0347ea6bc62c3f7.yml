@@ -1,0 +1,22 @@
+_id: req_0bbc82de39d54e5fb0347ea6bc62c3f7
+type: Request
+parentId: fld_002abaf6747f457ea38f52cc8ebf5c36
+modified: 1687261995298
+created: 1687261980523
+url: "{{ _.baseUrl
+  }}exercise-type/get-by-business/9a58d8c6-e1d6-7994-4a73-00062d18b019"
+name: get-by-business
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1679527158124.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

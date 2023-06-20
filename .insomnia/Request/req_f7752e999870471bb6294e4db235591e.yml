@@ -1,0 +1,30 @@
+_id: req_f7752e999870471bb6294e4db235591e
+type: Request
+parentId: fld_4fb8179694234d0f95412c3231a7d5e3
+modified: 1687262110454
+created: 1687261980532
+url: "{{ _.baseUrl }}exercise-type"
+name: create
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+      "businessId": "9a58d8c6-e1d6-7994-4a73-00062d18b019",
+    	"modality":"Corrida",
+      "name": "Teste"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1687261597564
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,21 @@
+_id: req_cfa1eb61c1f941809c36774cbd05c93f
+type: Request
+parentId: fld_002abaf6747f457ea38f52cc8ebf5c36
+modified: 1687261991090
+created: 1687261980521
+url: "{{ _.baseUrl }}exercise-type"
+name: get-all
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1687261189524
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

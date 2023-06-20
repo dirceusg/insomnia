@@ -1,0 +1,29 @@
+_id: req_55ae1379aa604c55abef9f5e6d239648
+type: Request
+parentId: fld_39506aeea0424c5793b3d87465ecd10a
+modified: 1687261899642
+created: 1687261810732
+url: "{{ _.baseUrl }}exercise-level/f138d281-8f2c-e89d-d0b2-bb42e7861f05"
+name: update
+description: ""
+method: PUT
+body:
+  mimeType: application/json
+  text: |-
+    {
+      "businessId": "9a58d8c6-e1d6-7994-4a73-00062d18b019",
+      "name": "Testes"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1687261810732
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

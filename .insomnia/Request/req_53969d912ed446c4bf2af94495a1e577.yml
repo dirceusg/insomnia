@@ -1,0 +1,33 @@
+_id: req_53969d912ed446c4bf2af94495a1e577
+type: Request
+parentId: fld_1ed89fbfb7cb4ee68ad8b9415f439fb1
+modified: 1687267352401
+created: 1687266666938
+url: "{{ _.baseUrl }}exercise/a38d6d96-35b2-d626-0772-c06e93ba8d19"
+name: update
+description: ""
+method: PUT
+body:
+  mimeType: application/json
+  text: |-
+    {
+      "businessId": "9a58d8c6-e1d6-7994-4a73-00062d18b019",
+      "modality": "Corrida",
+      "name": "Exercise Tests",
+      "exerciseTypeId": "b43f59c8-6dc0-b75b-d34d-6f89effd900a",
+      "exerciseLevelId": "5433d7b4-5562-0522-d896-869c9afa7399",
+      "decription": "test of exercises"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1687266327952
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

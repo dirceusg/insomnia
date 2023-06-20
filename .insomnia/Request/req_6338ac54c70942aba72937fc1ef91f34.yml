@@ -1,0 +1,29 @@
+_id: req_6338ac54c70942aba72937fc1ef91f34
+type: Request
+parentId: fld_d23a050b64b64eecac2e755015e8bf48
+modified: 1687261894885
+created: 1687261581302
+url: "{{ _.baseUrl }}exercise-level"
+name: create
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+      "businessId": "9a58d8c6-e1d6-7994-4a73-00062d18b019",
+      "name": "Teste"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1687261597564
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,30 @@
+_id: req_3597fa329c5f4e379313ebc0cba9d153
+type: Request
+parentId: fld_ce4fe6d6a25d4537bded6c1d929bd338
+modified: 1687262175649
+created: 1687261980536
+url: "{{ _.baseUrl }}exercise-type/e6fa92d8-1e6b-81dd-4dac-3f1d4c16f8f7"
+name: update
+description: ""
+method: PUT
+body:
+  mimeType: application/json
+  text: |-
+    {
+      "businessId": "9a58d8c6-e1d6-7994-4a73-00062d18b019",
+    	"modality":"Corrida",
+      "name": "Testes"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1687261810732
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

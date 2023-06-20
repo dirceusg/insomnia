@@ -1,0 +1,21 @@
+_id: req_fcea7a8c70a84506842d3fa609d38975
+type: Request
+parentId: fld_620ff0e4b50249cd9cabf7d8903dddc7
+modified: 1687267939887
+created: 1687267627216
+url: "{{ _.baseUrl }}exercise/a38d6d96-35b2-d626-0772-c06e93ba8d19"
+name: delete
+description: ""
+method: DELETE
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1687267627216
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

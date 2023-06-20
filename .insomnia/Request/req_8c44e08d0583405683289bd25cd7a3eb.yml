@@ -1,0 +1,22 @@
+_id: req_8c44e08d0583405683289bd25cd7a3eb
+type: Request
+parentId: fld_e896a88aa6724cfcb420d8efa1b2cf2a
+modified: 1687266286713
+created: 1687266272240
+url: "{{ _.baseUrl
+  }}exercise/get-select-modality/9a58d8c6-e1d6-7994-4a73-00062d18b019/Corrida"
+name: get-select-modality
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1687262224001
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

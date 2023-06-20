@@ -1,0 +1,21 @@
+_id: req_7af9105bac1b4430a4dc6c4b7b2194b3
+type: Request
+parentId: fld_42a026a096b349c29a65c284d9305839
+modified: 1687261541088
+created: 1687261452938
+url: "{{ _.baseUrl }}exercise-level/get-select/9a58d8c6-e1d6-7994-4a73-00062d18b019"
+name: get-by-select
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1677593650274.625
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

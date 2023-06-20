@@ -1,0 +1,21 @@
+_id: req_34b438c253c440aa990cd960d66bc1d7
+type: Request
+parentId: fld_8ec20151da5d49b08eb88436253abe9f
+modified: 1687262415897
+created: 1687262374091
+url: "{{ _.baseUrl }}step-type"
+name: get-all
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1687261189524
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

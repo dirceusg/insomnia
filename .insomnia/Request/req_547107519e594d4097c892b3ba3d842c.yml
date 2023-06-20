@@ -1,0 +1,21 @@
+_id: req_547107519e594d4097c892b3ba3d842c
+type: Request
+parentId: fld_e896a88aa6724cfcb420d8efa1b2cf2a
+modified: 1687266262129
+created: 1687266200544
+url: "{{ _.baseUrl }}exercise/get-select/9a58d8c6-e1d6-7994-4a73-00062d18b019"
+name: get-select
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1687262533931
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,40 @@
+_id: req_ed5283985804411eb731c8e7c427f1a5
+type: Request
+parentId: fld_9faef5f63fb84378a52fc54ac3bd5315
+modified: 1687267955376
+created: 1687267910584
+url: "{{ _.baseUrl }}exercise"
+name: include-step
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+      "exerciseId": "string",
+      "stepId": "string",
+      "businessId": "string",
+      "stepType": "string",
+      "durationType": "string",
+      "duration": 0,
+      "intensityType": "string",
+      "intensity": "string",
+      "exerciseName": "string",
+      "load": 0,
+      "series": 0,
+      "repetitions": 0,
+      "description": "string"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1687267910584
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,21 @@
+_id: req_f33bab8d70d24b33bf47503bf8d97647
+type: Request
+parentId: fld_8ec20151da5d49b08eb88436253abe9f
+modified: 1687262427237
+created: 1687262374093
+url: "{{ _.baseUrl }}step-type/get-by-business/9a58d8c6-e1d6-7994-4a73-00062d18b019"
+name: get-by-business
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1679527158124.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
